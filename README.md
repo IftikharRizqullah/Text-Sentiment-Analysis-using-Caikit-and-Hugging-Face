@@ -9,11 +9,6 @@ Caikit adalah toolkit AI yang memungkinkan pengguna untuk mengelola model pembel
 
 ---
 
-### Tugas Mentee ⏱️
-* Tugas untuk Mentee dari Mentor AI Lanjutan IBM di Kursus Infinite Learning 🌐
-* Kursus yang Selesai: Praktik Membuat Analisis Sentimen Teks menggunakan Caikit dan Hugging Face dari CognitiveClass.ai 💻
-
----
 
 ### Teknologi & Alat yang Digunakan 👩‍💻
 <p align="center">
